@@ -5,7 +5,7 @@ Effective Date: [November 23, 2026]
 
 1. Overview
 
-This Privacy Policy explains how [www.cefisher.net] ("we," "us," or "our") handles information when you visit [Your GitHub Pages URL, e.g., cefisher55113.github.io] (the "Website") or use [TrueNAS Google Drive Backup] (the "Service").
+This Privacy Policy explains how [www.cefisher.net] ("we," "us," or "our") handles information when you visit [Your GitHub Pages URL, e.g., https://github.com/cefisher55113/cefisher55113.github.io] (the "Website") or use [rclone] (the "Service").
 We are committed to protecting your privacy. We do not sell, rent, or trade your personal information to third parties.
 
 2. Information We Collect
