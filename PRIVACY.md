@@ -1,42 +1,43 @@
- 
+
 Privacy Policy
 
-Last Updated: [Date, e.g., November 23, 2026]
-This Privacy Policy describes how [Your Name / Project Name] ("we," "us," or "our") collects, uses, and discloses information when you visit our website at [Your Website URL, e.g., https://github.io] (the "Site").
+Effective Date: [November 23, 2026]
 
-1. Information We Collect
+1. Overview
 
-• Personal Information: We do not require you to create an account or provide personal information (such as your name, email address, or phone number) to browse this Site. If you choose to contact us directly via email or through a linked third-party form, we will only use the information you provide to respond to your inquiry.
-• Automatically Collected Data (Hosting): This Site is hosted on GitHub Pages, a service provided by GitHub, Inc. When you visit the Site, GitHub may automatically collect technical information—such as your IP address, browser type, operating system, referring URLs, and access times—in server logs to maintain the security and reliability of its platform. For more details, please review the GitHub General Privacy Statement.
-• Cookies and Analytics: [Choose one of the following options and delete the other]
-	• Option A (No Tracking): This Site does not use cookies, tracking pixels, or third-party analytics tools to monitor your behavior.
-	• Option B (With Analytics): We use [Analytics Provider, e.g., Google Analytics / Plausible] to understand visitor traffic and improve the Site. This tool may collect anonymized usage data or place cookies on your device. You can disable cookies through your browser settings.
+This Privacy Policy explains how [www.cefisher.net] ("we," "us," or "our") handles information when you visit [Your GitHub Pages URL, e.g., cefisher55113.github.io] (the "Website") or use [TrueNAS Google Drive Backup] (the "Service").
+We are committed to protecting your privacy. We do not sell, rent, or trade your personal information to third parties.
 
-2. How We Use Information
+2. Information We Collect
 
-Any information collected or provided is used strictly to:
-• Operate, maintain, and improve the content and functionality of the Site.
-• Respond to user questions, feedback, or support requests.
-• Monitor and protect against security threats, spam, or abuse.
+• Information You Provide Directly: [We do not directly collect personal information such as your name or email address on this Website.]
+• GitHub Pages Hosting Logs: This Website is hosted on GitHub Pages. When you visit the Website, GitHub automatically collects standard technical log data—such as your IP address, browser type, operating system, and referring pages—to maintain security and reliability. We do not have direct access to these raw server logs. For details, review the GitHub General Privacy Statement.
 
-3. Third-Party Links
+3. Google Services & Third-Party Tools
 
-This Site may contain links to external websites, repositories, or third-party services (such as GitHub, social media platforms, or external documentation). We are not responsible for the privacy practices or content of those external sites. We encourage you to read their respective privacy policies.
+(Note: Keep only the bullet points below that apply to your project.)
+• Google APIs & Google Sign-In (OAuth): If you connect your Google account, our Service only accesses the specific permissions (scopes) you explicitly approve. Our use and transfer to any other app of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements. We only store this data locally on your device / temporarily in session memory to provide the Service's core functionality.
+• Google Analytics: We use Google Analytics to understand general website traffic and usage patterns. Google Analytics uses cookies and similar technologies to collect anonymized data (such as pages visited and time spent on the site). You can opt out using the Google Analytics Opt-out Browser Add-on.
+• Google AdSense: We use Google AdSense to display advertisements. Google and its third-party vendors use cookies to serve ads based on your prior visits to this Website or other websites. You can opt out of personalized advertising by visiting Google Ads Settings.
 
-4. Data Security and Retention
+4. Cookies and Local Storage
 
-We do not sell, rent, or trade your personal information to third parties. If you send us an email or message, we retain that correspondence only as long as necessary to resolve your inquiry or as required by law.
+This Website may use browser cookies or localStorage strictly to remember your functional preferences (such as dark mode or app settings) and to support the Google services listed above. You can disable or clear cookies at any time through your browser settings.
 
-5. Your Privacy Rights
+5. Data Retention and Deletion
 
-Depending on your location (such as the European Economic Area, the UK, or California), you may have rights regarding your personal data, including the right to request access to, correction of, or deletion of personal information we hold about you. To exercise these rights, please contact us using the details below.
+We retain user data only for as long as necessary to provide the Service. If you have connected a Google account, you can revoke our access at any time via your Google Account Security Settings, or contact us to request deletion of any associated data.
 
-6. Changes to This Policy
+6. Children's Privacy
 
-We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated "Last Updated" date.
+This Website and Service are not intended for children under the age of 13, and we do not knowingly collect personal information from children.
 
-7. Contact Us
+7. Changes to This Policy
 
-If you have any questions about this Privacy Policy, please contact us at:
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
+
+8. Contact Us
+
+If you have any questions about this Privacy Policy or your data, please contact us at:
 • Email: [cefisher8924@gmail.com]
-• GitHub / Website: [github.com/cefisher55113/cefisher55113.github.io]
+• GitHub Repository: [https://github.com/cefisher55113/cefisher55113.github.io]
